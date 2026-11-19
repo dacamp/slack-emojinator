@@ -58,3 +58,6 @@ target/
 
 # Ignore environment variable file
 .env
+
+# Local virtualenv created by the Upload Emoji launchers
+.venv/
